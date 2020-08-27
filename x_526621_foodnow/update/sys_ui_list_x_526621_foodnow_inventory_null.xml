@@ -3,107 +3,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">47bb344bdb7e1010eadaa0f2ca961931</list_id>
+            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">120b3107db325010eadaa0f2ca96194b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 12:05:02</sys_created_on>
-            <sys_id>03bb344bdb7e1010eadaa0f2ca961932</sys_id>
+            <sys_created_on>2020-08-27 16:41:36</sys_created_on>
+            <sys_id>1a0b3907db325010eadaa0f2ca96199a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-27 12:05:02</sys_updated_on>
+            <sys_updated_on>2020-08-27 16:41:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>amount</element>
-            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">47bb344bdb7e1010eadaa0f2ca961931</list_id>
+            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">120b3107db325010eadaa0f2ca96194b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 12:05:02</sys_created_on>
-            <sys_id>83bb344bdb7e1010eadaa0f2ca961932</sys_id>
+            <sys_created_on>2020-08-27 16:41:36</sys_created_on>
+            <sys_id>9a0b3907db325010eadaa0f2ca96199a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-27 12:05:02</sys_updated_on>
+            <sys_updated_on>2020-08-27 16:41:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>expired_period</element>
-            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">47bb344bdb7e1010eadaa0f2ca961931</list_id>
+            <element>purchase_date</element>
+            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">120b3107db325010eadaa0f2ca96194b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 12:05:02</sys_created_on>
-            <sys_id>07bb344bdb7e1010eadaa0f2ca961932</sys_id>
+            <sys_created_on>2020-08-27 16:41:36</sys_created_on>
+            <sys_id>1e0b3907db325010eadaa0f2ca96199a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-27 12:05:02</sys_updated_on>
+            <sys_updated_on>2020-08-27 16:41:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>expiry_date</element>
-            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">47bb344bdb7e1010eadaa0f2ca961931</list_id>
+            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">120b3107db325010eadaa0f2ca96194b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 12:05:02</sys_created_on>
-            <sys_id>87bb344bdb7e1010eadaa0f2ca961932</sys_id>
+            <sys_created_on>2020-08-27 16:41:36</sys_created_on>
+            <sys_id>9e0b3907db325010eadaa0f2ca96199a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-27 12:05:02</sys_updated_on>
+            <sys_updated_on>2020-08-27 16:41:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>place</element>
-            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">47bb344bdb7e1010eadaa0f2ca961931</list_id>
+            <element>expired_period</element>
+            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">120b3107db325010eadaa0f2ca96194b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 12:05:02</sys_created_on>
-            <sys_id>0bbb344bdb7e1010eadaa0f2ca961932</sys_id>
+            <sys_created_on>2020-08-27 16:41:36</sys_created_on>
+            <sys_id>120b3907db325010eadaa0f2ca96199b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-27 12:05:02</sys_updated_on>
+            <sys_updated_on>2020-08-27 16:41:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>product_id</element>
-            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">47bb344bdb7e1010eadaa0f2ca961931</list_id>
+            <element>place</element>
+            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">120b3107db325010eadaa0f2ca96194b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 12:05:02</sys_created_on>
-            <sys_id>8bbb344bdb7e1010eadaa0f2ca961932</sys_id>
+            <sys_created_on>2020-08-27 16:41:36</sys_created_on>
+            <sys_id>920b3907db325010eadaa0f2ca96199b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-27 12:05:02</sys_updated_on>
+            <sys_updated_on>2020-08-27 16:41:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>purchase_date</element>
-            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">47bb344bdb7e1010eadaa0f2ca961931</list_id>
+            <element>product_id.number</element>
+            <list_id display_value="x_526621_foodnow_inventory" element="NULL" name="x_526621_foodnow_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">120b3107db325010eadaa0f2ca96194b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 12:05:02</sys_created_on>
-            <sys_id>0fbb344bdb7e1010eadaa0f2ca961932</sys_id>
+            <sys_created_on>2020-08-27 16:41:36</sys_created_on>
+            <sys_id>160b3907db325010eadaa0f2ca96199b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-27 12:05:02</sys_updated_on>
+            <sys_updated_on>2020-08-27 16:41:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -117,10 +117,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 12:05:02</sys_created_on>
+            <sys_created_on>2020-08-27 16:41:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>47bb344bdb7e1010eadaa0f2ca961931</sys_id>
+            <sys_id>120b3107db325010eadaa0f2ca96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_526621_foodnow_inventory</sys_name>
             <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
@@ -128,7 +128,7 @@
             <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
             <sys_update_name>sys_ui_list_x_526621_foodnow_inventory_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-27 12:05:02</sys_updated_on>
+            <sys_updated_on>2020-08-27 16:41:36</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
