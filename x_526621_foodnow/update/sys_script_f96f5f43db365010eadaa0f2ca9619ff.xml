@@ -11,14 +11,14 @@
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>x_526621_foodnow_inventory</collection>
+        <collection>x_526621_foodnow_m2m_shoppinglist_productlists</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Calculate Expire Date</name>
+        <name>Send Kilogramm</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -27,39 +27,28 @@
         <rest_service_text/>
         <rest_variables/>
         <role_conditions/>
-        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
-	
-	
-	//gs.addInfoMessage("Zahl: " + current.product_id.expiredperiod);
-    var purchase_date = current.getValue("purchase_date");
-	var expire_days = parseInt(current.product_id.expiredperiod, 10);
-    var gdt = new GlideDateTime(purchase_date);
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-    //var gdt = new GlideDateTime("2011-08-31 08:00:00");
-    gdt.addDaysLocalTime(expire_days);
-   // gs.addInfoMessage("before: " + purchase_date + expire_days);
-   //gs.addInfoMessage("after: " + gdt.getDate());
-	
-	current.setValue("expiry_date", gdt.getValue());
 
+current.setValue("kilogramm_liter", current.productlist.amount);
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-27 15:41:20</sys_created_on>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-28 00:03:58</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>57ffd143dbfe1010eadaa0f2ca96199a</sys_id>
-        <sys_mod_count>20</sys_mod_count>
-        <sys_name>Calculate Expire Date</sys_name>
+        <sys_id>f96f5f43db365010eadaa0f2ca9619ff</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Send Kilogramm</sys_name>
         <sys_overrides/>
         <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
         <sys_policy/>
         <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
-        <sys_update_name>sys_script_57ffd143dbfe1010eadaa0f2ca96199a</sys_update_name>
+        <sys_update_name>sys_script_f96f5f43db365010eadaa0f2ca9619ff</sys_update_name>
         <sys_updated_by>Lena</sys_updated_by>
-        <sys_updated_on>2020-08-27 23:47:53</sys_updated_on>
+        <sys_updated_on>2020-08-28 00:17:11</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=57ffd143dbfe1010eadaa0f2ca96199a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f96f5f43db365010eadaa0f2ca9619ff"/>
 </record_update>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_526621_foodnow_produktliste" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bakery Products</label>
+            <language>en</language>
+            <name>x_526621_foodnow_produktliste</name>
+            <sequence/>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 20:53:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cf3fe07dbb25010eadaa0f2ca961953</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 21:41:01</sys_updated_on>
+            <value>Bakery Products</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beverages</label>
+            <language>en</language>
+            <name>x_526621_foodnow_produktliste</name>
+            <sequence/>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 20:58:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d95b6c7dbb25010eadaa0f2ca96197e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 21:41:10</sys_updated_on>
+            <value>Beverages</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dairy Products</label>
+            <language>en</language>
+            <name>x_526621_foodnow_produktliste</name>
+            <sequence/>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 20:57:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb45b287dbb25010eadaa0f2ca961992</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 21:41:29</sys_updated_on>
+            <value>Dairy Products</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fruit</label>
+            <language>en</language>
+            <name>x_526621_foodnow_produktliste</name>
+            <sequence/>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 20:54:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fb47687dbb25010eadaa0f2ca961958</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 21:41:55</sys_updated_on>
+            <value>Fruit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Meat &amp; Fish</label>
+            <language>en</language>
+            <name>x_526621_foodnow_produktliste</name>
+            <sequence/>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 20:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90153287dbb25010eadaa0f2ca961950</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 21:42:04</sys_updated_on>
+            <value>Meat &amp; Fish</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others</label>
+            <language>en</language>
+            <name>x_526621_foodnow_produktliste</name>
+            <sequence/>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 20:58:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4e53687dbb25010eadaa0f2ca9619c2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 21:42:13</sys_updated_on>
+            <value>Others</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sweets and Snacks</label>
+            <language>en</language>
+            <name>x_526621_foodnow_produktliste</name>
+            <sequence/>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 21:12:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44063287dbb25010eadaa0f2ca961931</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 21:42:22</sys_updated_on>
+            <value>Sweets and Snacks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vegetables</label>
+            <language>en</language>
+            <name>x_526621_foodnow_produktliste</name>
+            <sequence/>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 20:55:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35e43287dbb25010eadaa0f2ca96194f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 21:45:20</sys_updated_on>
+            <value>Vegetables</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_526621_foodnow_produktliste</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 20:53:43</sys_created_on>
+            <sys_id>97b47e87dbb25010eadaa0f2ca961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+            <sys_update_name>sys_choice_x_526621_foodnow_produktliste_category</sys_update_name>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:53:43</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

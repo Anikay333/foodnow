@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Food">eb460903dbbe1010eadaa0f2ca961932</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Show Shoppinglist</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_526621_foodnow_shoppinglist</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-27 12:53:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d8468103dbbe1010eadaa0f2ca9619b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Shoppinglist</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+        <sys_update_name>sys_app_module_d8468103dbbe1010eadaa0f2ca9619b2</sys_update_name>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-27 12:53:31</sys_updated_on>
+        <timeline_page/>
+        <title>Show Shoppinglist</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</application>
+        <file_path/>
+        <instance_id>ecee211cdb8823447e55d5b0cf96197a</instance_id>
+        <instance_name>dev70896</instance_name>
+        <name>sys_app_module_d8468103dbbe1010eadaa0f2ca9619b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Food">eb460903dbbe1010eadaa0f2ca961932</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Show Shoppinglist</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_526621_foodnow_shoppinglist</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Lena</sys_created_by><sys_created_on>2020-08-27 12:53:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d8468103dbbe1010eadaa0f2ca9619b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Show Shoppinglist</sys_name><sys_overrides/><sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package><sys_policy/><sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope><sys_update_name>sys_app_module_d8468103dbbe1010eadaa0f2ca9619b2</sys_update_name><sys_updated_by>Lena</sys_updated_by><sys_updated_on>2020-08-27 12:53:31</sys_updated_on><timeline_page/><title>Show Shoppinglist</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2030412274</payload_hash>
+        <record_name>Show Shoppinglist</record_name>
+        <reverted_from/>
+        <source>5c4718cbdbfa1010eadaa0f2ca961961</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-27 12:53:31</sys_created_on>
+        <sys_id>05d6c143dbbe1010eadaa0f2ca961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1742ffafae40000001</sys_recorded_at>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-27 12:53:31</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4dd6c143d4be10108b78c3ceec52602f</update_guid>
+        <update_guid_history>4dd6c143d4be10108b78c3ceec52602f:2030412274</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Show Shoppinglist">3e77c593db3a5010eadaa0f2ca961936</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 07:34:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>7f50a5a8fa8048829f509e16c9e02ec4</sys_id>
+        <sys_metadata>d8468103dbbe1010eadaa0f2ca9619b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Shoppinglist</sys_name>
+        <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+        <sys_scope_delete display_value="">3469e4575fbe4d9c8f9e97fffeaf6190</sys_scope_delete>
+        <sys_update_name>sys_app_module_d8468103dbbe1010eadaa0f2ca9619b2</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d8468103dbbe1010eadaa0f2ca9619b2">05d6c143dbbe1010eadaa0f2ca961930</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 07:34:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

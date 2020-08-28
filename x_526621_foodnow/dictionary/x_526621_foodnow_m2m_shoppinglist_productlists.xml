@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Foodnow M2m Shoppinglist Productlists" max_length="40" name="x_526621_foodnow_m2m_shoppinglist_productlists" type="collection">
         <element label="Amount" max_length="40" name="amount" type="integer"/>
+        <element label="Kilogramm/Liter" max_length="40" name="kilogramm_liter" type="float"/>
         <element attributes="encode_utf8=false" label="Productlist" max_length="32" name="productlist" reference="x_526621_foodnow_produktliste" type="reference"/>
         <element attributes="encode_utf8=false" label="Shoppinglist" max_length="32" name="shoppinglist" reference="x_526621_foodnow_shoppinglist" type="reference"/>
         <index name="index">

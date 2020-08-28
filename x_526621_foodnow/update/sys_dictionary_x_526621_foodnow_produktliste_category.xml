@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="name" table="x_526621_foodnow_produktliste">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="category" table="x_526621_foodnow_produktliste">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -11,10 +11,10 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice/>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Name</column_label>
+        <column_label>Category</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,19 +22,19 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>true</display>
+        <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>category</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
-        <max_length>100</max_length>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>40</max_length>
         <name>x_526621_foodnow_produktliste</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Lena</sys_created_by>
-        <sys_created_on>2020-08-27 10:09:42</sys_created_on>
-        <sys_id>90b06c43db3e1010eadaa0f2ca961924</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Name</sys_name>
+        <sys_created_on>2020-08-27 20:50:08</sys_created_on>
+        <sys_id>4ac3f287dbb25010eadaa0f2ca961964</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Category</sys_name>
         <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
         <sys_policy/>
         <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
-        <sys_update_name>sys_dictionary_x_526621_foodnow_produktliste_name</sys_update_name>
+        <sys_update_name>sys_dictionary_x_526621_foodnow_produktliste_category</sys_update_name>
         <sys_updated_by>Lena</sys_updated_by>
-        <sys_updated_on>2020-08-27 23:57:00</sys_updated_on>
+        <sys_updated_on>2020-08-27 20:59:10</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

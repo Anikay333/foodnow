@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="FoodNow">eb460903dbbe1010eadaa0f2ca961932</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Statistic</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>600</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://dev70896.service-now.com/nav_to.do?uri=%2F$pa_dashboard.do%3Fsysparm_dashboard%3D4c803207dbb25010eadaa0f2ca961984%26sysparm_tab%3D45a0b207dbb25010eadaa0f2ca96194c%26sysparm_cancelable%3Dtrue%26sysparm_editable%3Dtrue%26sysparm_active_panel%3DquickLayoutSideContent</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-28 01:20:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f0807b4fdb365010eadaa0f2ca961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Statistic</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+        <sys_update_name>sys_app_module_f0807b4fdb365010eadaa0f2ca961976</sys_update_name>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-28 01:20:16</sys_updated_on>
+        <timeline_page/>
+        <title>Statistic</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</application>
+        <file_path/>
+        <instance_id>ecee211cdb8823447e55d5b0cf96197a</instance_id>
+        <instance_name>dev70896</instance_name>
+        <name>sys_app_module_f0807b4fdb365010eadaa0f2ca961976</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="FoodNow">eb460903dbbe1010eadaa0f2ca961932</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Statistic</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>600</order><override_menu_roles>false</override_menu_roles><query>https://dev70896.service-now.com/nav_to.do?uri=%2F$pa_dashboard.do%3Fsysparm_dashboard%3D4c803207dbb25010eadaa0f2ca961984%26sysparm_tab%3D45a0b207dbb25010eadaa0f2ca96194c%26sysparm_cancelable%3Dtrue%26sysparm_editable%3Dtrue%26sysparm_active_panel%3DquickLayoutSideContent</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Lena</sys_created_by><sys_created_on>2020-08-28 01:20:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f0807b4fdb365010eadaa0f2ca961976</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Statistic</sys_name><sys_overrides/><sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package><sys_policy/><sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope><sys_update_name>sys_app_module_f0807b4fdb365010eadaa0f2ca961976</sys_update_name><sys_updated_by>Lena</sys_updated_by><sys_updated_on>2020-08-28 01:20:16</sys_updated_on><timeline_page/><title>Statistic</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-347029255</payload_hash>
+        <record_name>Statistic</record_name>
+        <reverted_from/>
+        <source>16d2994bdbbe1010eadaa0f2ca9619fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-28 01:20:16</sys_created_on>
+        <sys_id>b3b13b8fdb365010eadaa0f2ca9619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17432a6a75d0000001</sys_recorded_at>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-28 01:20:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>fbb13b8ff23650105e3845541ce8c6d9</update_guid>
+        <update_guid_history>fbb13b8ff23650105e3845541ce8c6d9:-347029255</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Statistic">14c23bcfdb365010eadaa0f2ca9619bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-28 01:24:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0dd711b6157e44ab8617b21c7ef57f39</sys_id>
+        <sys_metadata>f0807b4fdb365010eadaa0f2ca961976</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Statistic</sys_name>
+        <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+        <sys_scope_delete display_value="">3469e4575fbe4d9c8f9e97fffeaf6190</sys_scope_delete>
+        <sys_update_name>sys_app_module_f0807b4fdb365010eadaa0f2ca961976</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f0807b4fdb365010eadaa0f2ca961976">b3b13b8fdb365010eadaa0f2ca9619da</sys_update_version>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-28 01:24:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

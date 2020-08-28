@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>System Administration</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-28 01:22:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cb32bb8fdb365010eadaa0f2ca9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>System Administration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+        <sys_update_name>pa_tabs_cb32bb8fdb365010eadaa0f2ca9619c7</sys_update_name>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-28 01:22:24</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</application>
+        <file_path/>
+        <instance_id>ecee211cdb8823447e55d5b0cf96197a</instance_id>
+        <instance_name>dev70896</instance_name>
+        <name>pa_tabs_cb32bb8fdb365010eadaa0f2ca9619c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>System Administration</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>Lena</sys_created_by><sys_created_on>2020-08-28 01:22:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cb32bb8fdb365010eadaa0f2ca9619c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>System Administration</sys_name><sys_overrides/><sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package><sys_policy/><sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope><sys_update_name>pa_tabs_cb32bb8fdb365010eadaa0f2ca9619c7</sys_update_name><sys_updated_by>Lena</sys_updated_by><sys_updated_on>2020-08-28 01:22:24</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>209996581</payload_hash>
+        <record_name>System Administration</record_name>
+        <reverted_from/>
+        <source>16d2994bdbbe1010eadaa0f2ca9619fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-28 01:22:47</sys_created_on>
+        <sys_id>6c52f3cfdb365010eadaa0f2ca961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17432a8f33e0000001</sys_recorded_at>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-28 01:22:47</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>433273cfe13650105c87684fd2108464</update_guid>
+        <update_guid_history>433273cfe13650105c87684fd2108464:2053046386,433273cfe13650105c87684fd2108464:2053046386,433273cfe13650105c87684fd2108464:2053046386</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="System Administration">2052f3cfdb365010eadaa0f2ca961999</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-28 01:22:47</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>2c5f08b139bd4d7e9ca7ba6fc87b26e4</sys_id>
+        <sys_metadata>cb32bb8fdb365010eadaa0f2ca9619c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>System Administration</sys_name>
+        <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+        <sys_scope_delete display_value="">3469e4575fbe4d9c8f9e97fffeaf6190</sys_scope_delete>
+        <sys_update_name>pa_tabs_cb32bb8fdb365010eadaa0f2ca9619c7</sys_update_name>
+        <sys_update_version display_value="pa_tabs_cb32bb8fdb365010eadaa0f2ca9619c7">6c52f3cfdb365010eadaa0f2ca961994</sys_update_version>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-28 01:22:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

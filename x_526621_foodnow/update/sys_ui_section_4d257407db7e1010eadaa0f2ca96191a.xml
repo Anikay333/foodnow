@@ -154,6 +154,34 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 13:12:37</sys_created_on>
+            <sys_id>bc3b4507dbbe1010eadaa0f2ca96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_526621_foodnow_m2m_shoppinglist_productlists" sys_domain="global" view="Default view">4d257407db7e1010eadaa0f2ca96191a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 13:12:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kilogramm_liter</element>
+            <position>12</position>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 23:28:32</sys_created_on>
+            <sys_id>c3285f0fdbf25010eadaa0f2ca96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_526621_foodnow_m2m_shoppinglist_productlists" sys_domain="global" view="Default view">4d257407db7e1010eadaa0f2ca96191a</sys_ui_section>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 23:28:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

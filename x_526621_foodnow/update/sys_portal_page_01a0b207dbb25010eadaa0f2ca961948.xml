@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-08-28 07:39:26">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>Lena</sys_created_by>
+        <sys_created_on>2020-08-27 20:35:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01a0b207dbb25010eadaa0f2ca961948</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA FoodNow - Statistic</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+        <sys_update_name>sys_portal_page_01a0b207dbb25010eadaa0f2ca961948</sys_update_name>
+        <sys_updated_by>Lena</sys_updated_by>
+        <sys_updated_on>2020-08-28 01:14:15</sys_updated_on>
+        <title>PA FoodNow - Statistic</title>
+        <user/>
+        <view>pa_foodnow_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA FoodNow - Statistic">01a0b207dbb25010eadaa0f2ca961948</page>
+                <summary>Pie on Inventory table by category created by Lena Lena: 2020-08-28 02:26:57</summary>
+                <sys_created_by>Lena</sys_created_by>
+                <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                <sys_id>0f066787db365010eadaa0f2ca96191f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>Lena</sys_updated_by>
+                <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-28 02:29:09">0f066787db365010eadaa0f2ca96191f</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                        <sys_id>0b06ab87db365010eadaa0f2ca9619b8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                        <value>Pie on Inventory table by category created by Lena Lena: 2020-08-28 02:26:57</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-28 02:29:09">0f066787db365010eadaa0f2ca96191f</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                        <sys_id>0f06ab87db365010eadaa0f2ca9619b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                        <value>4406e387db365010eadaa0f2ca9619d5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-28 02:29:09">0f066787db365010eadaa0f2ca96191f</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                        <sys_id>0f06ab87db365010eadaa0f2ca9619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-08-28 02:29:09">0f066787db365010eadaa0f2ca96191f</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                        <sys_id>4706ab87db365010eadaa0f2ca9619b8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-28 02:29:09">0f066787db365010eadaa0f2ca96191f</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                        <sys_id>4b06ab87db365010eadaa0f2ca9619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-08-28 02:29:09">0f066787db365010eadaa0f2ca96191f</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                        <sys_id>8306ab87db365010eadaa0f2ca9619b8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-08-28 02:29:09">0f066787db365010eadaa0f2ca96191f</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                        <sys_id>9706ab87db365010eadaa0f2ca9619b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-08-28 02:29:09">0f066787db365010eadaa0f2ca96191f</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:29:09</sys_created_on>
+                        <sys_id>cf06ab87db365010eadaa0f2ca9619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:29:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA FoodNow - Statistic">01a0b207dbb25010eadaa0f2ca961948</page>
+                <summary>Pie on Shoppinglist table by name created by Lena Lena: 2020-08-28 03:02:30</summary>
+                <sys_created_by>Lena</sys_created_by>
+                <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                <sys_id>a29eebcbdb365010eadaa0f2ca96196c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>Lena</sys_updated_by>
+                <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-08-28 03:06:32">a29eebcbdb365010eadaa0f2ca96196c</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                        <sys_id>2a9eebcbdb365010eadaa0f2ca96196d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-28 03:06:32">a29eebcbdb365010eadaa0f2ca96196c</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                        <sys_id>2e9eebcbdb365010eadaa0f2ca96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-08-28 03:06:32">a29eebcbdb365010eadaa0f2ca96196c</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                        <sys_id>669eebcbdb365010eadaa0f2ca96196d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-08-28 03:06:32">a29eebcbdb365010eadaa0f2ca96196c</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                        <sys_id>a29eebcbdb365010eadaa0f2ca96196d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-08-28 03:06:32">a29eebcbdb365010eadaa0f2ca96196c</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                        <sys_id>a29eebcbdb365010eadaa0f2ca96196e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-28 03:06:32">a29eebcbdb365010eadaa0f2ca96196c</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                        <sys_id>e69eebcbdb365010eadaa0f2ca96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                        <value>937e230fdb365010eadaa0f2ca9619b6</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-28 03:06:32">a29eebcbdb365010eadaa0f2ca96196c</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                        <sys_id>ea9eebcbdb365010eadaa0f2ca96196d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                        <value>Pie on Shoppinglist table by name created by Lena Lena: 2020-08-28 03:02:30</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-28 03:06:32">a29eebcbdb365010eadaa0f2ca96196c</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 01:06:32</sys_created_on>
+                        <sys_id>ee9eebcbdb365010eadaa0f2ca96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 01:06:32</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA FoodNow - Statistic">01a0b207dbb25010eadaa0f2ca961948</page>
+                <summary>Bar on Inventory table by place created by Lena Lena: 2020-08-28 02:32:06</summary>
+                <sys_created_by>Lena</sys_created_by>
+                <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                <sys_id>b25763c7db365010eadaa0f2ca9619e0</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>Lena</sys_updated_by>
+                <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-08-28 02:34:52">b25763c7db365010eadaa0f2ca9619e0</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                        <sys_id>365763c7db365010eadaa0f2ca9619e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-08-28 02:34:52">b25763c7db365010eadaa0f2ca9619e0</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                        <sys_id>725763c7db365010eadaa0f2ca9619e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-08-28 02:34:52">b25763c7db365010eadaa0f2ca9619e0</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                        <sys_id>725763c7db365010eadaa0f2ca9619e2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-28 02:34:52">b25763c7db365010eadaa0f2ca9619e0</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                        <sys_id>b65763c7db365010eadaa0f2ca9619e0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                        <value>4d572f87db365010eadaa0f2ca96196e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-28 02:34:52">b25763c7db365010eadaa0f2ca9619e0</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                        <sys_id>ba5763c7db365010eadaa0f2ca9619e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                        <value>Bar on Inventory table by place created by Lena Lena: 2020-08-28 02:32:06</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-28 02:34:52">b25763c7db365010eadaa0f2ca9619e0</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                        <sys_id>be5763c7db365010eadaa0f2ca9619e0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-08-28 02:34:52">b25763c7db365010eadaa0f2ca9619e0</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                        <sys_id>f65763c7db365010eadaa0f2ca9619e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-28 02:34:52">b25763c7db365010eadaa0f2ca9619e0</portal_section>
+                        <sys_created_by>Lena</sys_created_by>
+                        <sys_created_on>2020-08-28 00:34:52</sys_created_on>
+                        <sys_id>fa5763c7db365010eadaa0f2ca9619e0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Lena</sys_updated_by>
+                        <sys_updated_on>2020-08-28 00:34:52</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

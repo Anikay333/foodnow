@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="kilogramm_liter" label="Kilogramm/Liter" language="en" table="x_526621_foodnow_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>kilogramm_liter</element>
+            <help/>
+            <hint/>
+            <label>Kilogramm/Liter</label>
+            <language>en</language>
+            <name>x_526621_foodnow_inventory</name>
+            <plural>Kilogramm/Liters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Lena</sys_created_by>
+            <sys_created_on>2020-08-27 23:18:00</sys_created_on>
+            <sys_id>3cc553cbdbf25010eadaa0f2ca961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Kilogramm/Liter</sys_name>
+            <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+            <sys_update_name>sys_documentation_x_526621_foodnow_inventory_kilogramm_liter_en</sys_update_name>
+            <sys_updated_by>Lena</sys_updated_by>
+            <sys_updated_on>2020-08-27 23:18:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
