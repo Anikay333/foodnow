@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="group" label="Group" language="en" table="x_526621_foodnow_shoppinglist">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>group</element>
+            <help/>
+            <hint/>
+            <label>Group</label>
+            <language>en</language>
+            <name>x_526621_foodnow_shoppinglist</name>
+            <plural>Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 07:55:18</sys_created_on>
+            <sys_id>262c4d57db3a5010eadaa0f2ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Group</sys_name>
+            <sys_package display_value="FoodNow" source="x_526621_foodnow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FoodNow">ca9f8c87dbfa1010eadaa0f2ca961912</sys_scope>
+            <sys_update_name>sys_documentation_x_526621_foodnow_shoppinglist_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 07:55:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
